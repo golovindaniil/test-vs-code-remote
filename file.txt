@@ -1,2 +1,2 @@
 git config --global user.name "Mona Lisa"
-https://github.com/golovindaniil/test-vs-code-remote.git
+https://github.com/golovindaniil/test-vs-code-remote.gitss
